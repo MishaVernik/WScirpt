@@ -1,10 +1,9 @@
 # WScirpt
 Windows shell scripts 
 ### How to run it?
-'''
-> wscript test.js
-> cscript test.js
-'''
+'> wscript test.js'<br>
+'> cscript test.js'<br>
+
 The difference only in modes:<br>
 1. Graphical<br>
 2. Console<br>
